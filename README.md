@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ## *Fides*
 
 The seal is broken. The duty remains.
