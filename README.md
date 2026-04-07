@@ -3,6 +3,7 @@
 # The Broken Seal Society
 
 <img width="265" height="248" src="bss-seal.png">
+
 </div>
 
 ---
