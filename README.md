@@ -1,6 +1,9 @@
+<div align="center">
+
 # The Broken Seal Society
 
-![The Broken Seal Society](bss-seal.png)
+<img width="265" height="248" src="bss-seal.png">
+</div>
 
 ---
 
