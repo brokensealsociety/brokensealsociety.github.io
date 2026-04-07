@@ -1,12 +1,8 @@
 <div align="center">
 <H1>The Broken Seal Society</H1>
 <img width="150" height="140" src="bss-seal.png">
-
+<H2><i>The seal is broken. The duty remains.</i></H2>
 </div>
-
-## *Fides*
-
-The seal is broken. The duty remains.
 
 ---
 
