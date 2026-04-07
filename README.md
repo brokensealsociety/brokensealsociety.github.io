@@ -1,8 +1,6 @@
 <div align="center">
-
-# The Broken Seal Society
-
-<img width="265" height="248" src="bss-seal.png">
+<H1>The Broken Seal Society</H1>
+<img width="150" height="140" src="bss-seal.png">
 
 </div>
 
